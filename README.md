@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Ferraro, Bruno
 - 👀 I’m interested in Technologies, Programming, Cloud Computing, IaC and others
 - 🌱 I'm currently learning Python, IaC, Terraform, Kubernetes
-- 📫 How to reach me: LinkedIn: https://br.linkedin.com/in/tech-bruno-ferraro
+- 📫 LinkedIn: https://br.linkedin.com/in/tech-bruno-ferraro
 
 
 <!---
